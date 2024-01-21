@@ -1,0 +1,14 @@
+.header {
+  position: relative;
+  padding: 20px 10px;
+  color: #fff;
+  
+  margin: 7px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  background-color: green;
+  margin: 10px;
+  border-radius: 8px;
+
+}

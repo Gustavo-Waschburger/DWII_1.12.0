@@ -1,0 +1,22 @@
+
+
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+.chat{
+  /**display: flex;*/
+  width: 800px;
+  height: 1000px;
+  margin: 20px auto;
+  background-color: #000000;
+  border-radius: 4px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+
+}
+
+
